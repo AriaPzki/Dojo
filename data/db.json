@@ -13,12 +13,6 @@
       "id": 2
     },
     {
-      "title": "Web Dev Top Tips",
-      "body": "Lorem Ipsum ...",
-      "author": "mario",
-      "id": 3
-    },
-    {
       "title": "Welcome Home",
       "body": "Welcome My Friend",
       "author": "Mario",
@@ -41,12 +35,6 @@
       "body": "vcxvxccvcx",
       "author": "Mario",
       "id": 7
-    },
-    {
-      "title": "vcxvcx",
-      "body": "vxcvxcvv",
-      "author": "Mario",
-      "id": 8
     }
   ]
 }
