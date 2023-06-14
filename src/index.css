@@ -54,3 +54,48 @@
 .blog-preview a {
   text-decoration: none;
 }
+
+.blog-details h2 {
+  font-size: 20px;
+  color: #f1355d;
+  margin-bottom: 10px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create h1 {
+  color: #f1355d;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.create form label {
+  display: block;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.create form input,
+.create form textarea,
+.create select {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button {
+  background-color: #f1355d;
+  color: #fff;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
